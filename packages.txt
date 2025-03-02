@@ -1,7 +1,1 @@
 poppler-utils
-streamlit
-pillow
-pdf2image
-google-generativeai
-python-dotenv
-base64
